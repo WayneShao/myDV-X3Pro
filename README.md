@@ -8,6 +8,7 @@
 
 | 版本 | 下载与说明 |
 |---|---|
+| 2.0.32 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.0.32) |
 | 2.0.31 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.0.31) |
 | 1.5.30 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v1.5.30) |
 
@@ -26,9 +27,9 @@
 
 ## 安装与升级
 
-本仓库两个版本使用同一适配签名，已有同签名适配版可覆盖升级并保留数据。适配签名与上游原版不同：若设备已安装官方原版，直接覆盖会发生签名冲突，请先保留配置，再决定迁移方式。
+本仓库已发布版本使用同一适配签名，已有同签名适配版可覆盖升级并保留数据。适配签名与上游原版不同：若设备已安装官方原版，直接覆盖会发生签名冲突，请先保留配置，再决定迁移方式。
 
-文件名中的 `debug` 是既有交付命名，本次发布的两个 APK 均已签名并检查。适配签名证书 SHA-256：
+文件名中的 `debug` 是既有交付命名，发布的 APK 均已签名并检查。适配签名证书 SHA-256：
 
 ```text
 4c18f1a5584e01efded17bc5303a9f3c3912ded59b88722261ff2a912172d4d9
