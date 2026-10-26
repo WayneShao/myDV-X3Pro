@@ -8,6 +8,7 @@
 
 | 版本 | 下载与说明 |
 |---|---|
+| 2.1.38 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.38) |
 | 2.1.37 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.37) |
 | 2.1.36 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.36) |
 | 2.1.35 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.35) |
