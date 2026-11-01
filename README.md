@@ -8,6 +8,7 @@
 
 | 版本 | 下载与说明 |
 |---|---|
+| 2.2.40 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.2.40) |
 | 2.2.39 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.2.39) |
 | 2.1.38 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.38) |
 | 2.1.37 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.1.37) |
@@ -25,7 +26,7 @@
 ## X3 Pro 适配内容
 
 - 应用页面、设置、弹窗、菜单及 Toast 的双目显示适配。
-- 视频沿用现有 TextureView 双目显示路径，保留字幕和控制界面。
+- 视频沿用现有 TextureView 双目显示路径，保留字幕和控制界面。2.2.40 新增的 GLSurfaceView 选项在 X3 Pro 上实际仍映射到 TextureView；普通设备保留上游选择。
 - 右触控板使用原生焦点“光标模式”：上下左右滑动对应方向键，单击确认，双击返回，双指轻触打开选项菜单。
 - 左触控板保留系统音量操作，不进入应用导航。
 - 焦点恢复及导航时自动弹出输入法的抑制；从 2.1.37 起接入应用内双目拼音输入，不替换系统输入法。
