@@ -6,6 +6,8 @@
 
 **[下载最新适配版](https://github.com/WayneShao/myDV-X3Pro/releases/latest)**
 
+2026-11-03：2.3.42 已修复启动闪退并替换两种安装包。已安装旧 2.3.42 请重新下载覆盖安装，不需卸载；同版本修订不会触发应用内更新提示。
+
 | 版本 | 下载与说明 |
 |---|---|
 | 2.3.42 | [Release](https://github.com/WayneShao/myDV-X3Pro/releases/tag/x3pro-v2.3.42) |
